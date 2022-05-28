@@ -20,8 +20,6 @@
 The project is for maximum caching all information to increase work speed and
 reliability.
 
-## Description
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/skindud/squid-cache-art.svg?style=for-the-badge
