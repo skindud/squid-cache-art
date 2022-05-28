@@ -1,3 +1,4 @@
+# Squid Cache Artifactory
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -17,7 +18,8 @@
 Squid Cache Artifactory
 ==================
 
-The project is for maximum caching all information to increase work speed and reliability. 
+The project is for maximum caching all information to increase work speed and 
+reliability. 
 
 Description
 -----------------
