@@ -1,3 +1,4 @@
+# Squid Cache Artifactory
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -12,13 +13,14 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-Squid Cache Artifactory
-==================
+[![GitHub Super-Linter](https://github.com/skindud/useful/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
-The project is for maximum caching all information to increase work speed and reliability. 
+## Description
 
-Description
------------------
+The project is for maximum caching all information to increase work speed and
+reliability.
+
+## Description
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
