@@ -15,7 +15,7 @@
 
 [![GitHub Super-Linter](https://github.com/skindud/useful/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
-## Description 
+## Description
 
 The project is for maximum caching all information to increase work speed and
 reliability.
