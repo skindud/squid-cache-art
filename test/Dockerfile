@@ -12,4 +12,4 @@ RUN	sed -i '/fedora-cisco-openh264-$releasever/i \#baseurl=http://codecs.fedorap
     	yum clean all && rm -rf /var/cache/yum
 #	time yum --disablerepo=* --enablerepo=fedora  -y install htop && \
 
-#docker build -t fedora:35-squidtest -f Dockerfile.test .
+#docker build -t fedora:35-squidtest -f Dockerfile.test . 
