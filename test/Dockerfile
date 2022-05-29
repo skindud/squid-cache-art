@@ -2,7 +2,7 @@
 
 FROM 	fedora:35
 
-LABEL maintainer="Sergey Dudkin <biperdev@gmail.com>" Description="SQUID test image" Version="0.0.1"
+LABEL maintainer="Sergey Dudkin <biperdev@gmail.com>"
 
 USER root # DL3002 warning: Last USER should not be root
 # DL4006 warning, SC3037 warning
