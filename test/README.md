@@ -5,6 +5,7 @@ It is the script cache artifactory
 ## Commands
 
 ```shell
+
 sudo yum remove wget -y && time sudo yum install wget -y
 docker rmi mysql && time docker pull mysql
 ```

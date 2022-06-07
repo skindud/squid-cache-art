@@ -6,7 +6,7 @@ After=docker.service
 [Service]
 ExecStartPre=-/usr/bin/docker stop squid-cache-art
 ExecStartPre=-/usr/bin/docker rm squid-cache-art
-ExecStart=/usr/bin/docker run --rm --name squid-cache-art -p 3128:3128 -v /srv/vg1/lv1/squid-cache-art/squid.conf:/etc/squid/squid.conf:ro b4tman/squid 
+ExecStart=/usr/bin/docker run --rm --name squid-cache-art -p 3128:3128 -v /home/igres/git/github-skindud/squid-cache-art/squid/squid.conf:/etc/squid/squid.conf:ro b4tman/squid 
 
 [Install]
 WantedBy=default.target
